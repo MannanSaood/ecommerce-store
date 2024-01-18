@@ -1,0 +1,8 @@
+.Cards{
+    border-radius: 10%;
+    background-color:rgb(231, 237, 240);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    width:600px;
+    height:auto;
+    display:block;
+}

@@ -1,0 +1,90 @@
+@import "react-slideshow-image/dist/styles.css";
+
+.slideContainer{
+    height:70%;
+    width: 93%;
+    background-color:white;
+    position:absolute;
+    left:80px;
+}
+.sec {
+    display:inline-block;
+}
+.sec img{
+    margin-right:10px;
+    margin-bottom:6px;
+}
+.au{
+    padding-left:25%;
+}
+.pho{
+    padding-left:30%;
+}
+.aud{
+    padding-left:42%;
+}
+.sec a{
+    text-decoration:none;
+    color:black;
+}
+.sec h3{
+    padding-left:50%;
+}
+.sec h2{
+    padding-left:50%;
+    padding-top:10%;
+}
+.sec h1{
+    padding-top:45%;
+    padding-left:50%;
+}
+.slideContainer img{
+    width:100%;
+    position:absolute;
+    top:0;
+    height:100%;
+}
+.star hr{
+    background-color:black;
+    color:black;
+    position:absolute;
+    top:75%;
+    width:43%;
+    left:80px;
+
+}
+.star h2{
+    position:absolute;
+    top:71.7%;
+    left:49%;
+}
+.star .s{
+    position:absolute;
+    width:40%;
+    top:75.1%;
+    left:59%;
+    background-color:black;
+    color:black;
+}
+
+.sec h3{
+    margin:0;
+}
+.mySlides{
+    display:none;
+}
+
+.eachSlide >div{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height:70%;
+}
+
+.eachSlide span{
+    padding: 20px;
+    font-size:20px;
+    background-color: #efefef;
+    text-align:center;
+}

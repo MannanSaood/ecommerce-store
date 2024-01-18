@@ -1,0 +1,27 @@
+.message{
+    width:100%;
+    background-color:rgb(83, 243, 83);
+    color:white;
+    height:40px;
+    text-align-last: center;
+}
+.message h3{
+    margin:0;
+}
+.content{
+    display:inline-block;
+}
+.container{
+    justify-content:space-between;
+    text-align:center;
+}
+.content li{
+    display:flex;
+    list-style:none;
+}
+.content ul{
+    display:inline;
+}
+.container h1{
+    margin:0;
+}

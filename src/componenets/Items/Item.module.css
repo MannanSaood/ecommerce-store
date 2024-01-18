@@ -1,0 +1,26 @@
+.item{
+    margin: 1rem 0;
+}
+
+.image{
+    width: 100%;
+    overflow: hidden;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+}
+
+
+.image img{
+    width: 100%;
+    height:auto;
+    object-fit: cover;
+}
+
+.content{
+    text-align: center;
+    padding-top: 0;
+
+}
+.actions{
+    padding-bottom: 12px;
+}

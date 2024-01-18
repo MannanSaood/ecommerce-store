@@ -1,0 +1,17 @@
+.content{
+    display:inline-block;
+}
+.container{
+    justify-content:space-between;
+    text-align:center;
+}
+.content li{
+    display:flex;
+    list-style:none;
+}
+.content ul{
+    display:inline;
+}
+.container h1{
+    margin:0;
+}
